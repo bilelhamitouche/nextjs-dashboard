@@ -1,4 +1,10 @@
 {
+  "pnpm": {
+    "allow-scripts": [
+      "bcrypt",
+      "sharp"
+    ]
+  },
   "private": true,
   "scripts": {
     "build": "next build",
