@@ -3,6 +3,10 @@
     "allow-scripts": [
       "bcrypt",
       "sharp"
+    ],
+    "onlyBuiltDependencies": [
+      "bcrypt",
+      "sharp"
     ]
   },
   "private": true,
