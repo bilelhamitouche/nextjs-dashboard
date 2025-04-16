@@ -9,6 +9,8 @@ import {
 } from "@/app/ui/skeletons";
 import CardWrapper from "@/app/ui/dashboard/cards";
 
+export const experimental_ppr = true;
+
 async function Dashboard() {
   return (
     <main>
